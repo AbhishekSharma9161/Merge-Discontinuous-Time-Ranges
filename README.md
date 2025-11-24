@@ -2,11 +2,6 @@
 
 A NodeJS module that merges discontinuous time ranges within a given threshold.
 
-## Assignment Details
-- **Subject**: SDE Assignment - Nov 2025
-- **Company**: Saralweb
-- **Submission**: NodeJS Module
-
 ## Module Description
 
 This module provides a function to merge overlapping or closely spaced time ranges based on a configurable threshold.
